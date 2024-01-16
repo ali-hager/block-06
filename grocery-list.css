@@ -1,0 +1,66 @@
+h1 {
+  background-color: lightseagreen;
+}
+#Farmers {
+  background-color: plum;
+}
+#Fruit {
+  background-color: lightpink;
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+#fruit-heading {
+  background-color: hotpink
+}
+
+#Vegetables {
+  background-color: lightgreen;
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+#veg-heading {
+  background-color: lime;
+}
+
+.food-pic {
+  display: block;
+  padding: 5%;
+  width: 30%;
+}
+
+#Giant {
+  background-color: orange;
+}
+
+#Bakery {
+  background-color: burlywood;
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+#Dry {
+  background-color: lightgrey;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+  display: inline-block;
+}
+
+/* <!-- 
+Add two photos with padding so it is nicely spaced away from the text element.
